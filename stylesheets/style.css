@@ -1,0 +1,28 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+canvas {
+   /* display : block;    */
+   margin : auto;
+}
+
+body {
+    /* background-color: paleturquoise; */
+  background-image: url("../images/indexBG.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
